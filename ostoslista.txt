@@ -5,5 +5,5 @@ omena
 kana
 fetajuusto
 halloumi
-makkara
+vegemakkara
 pasitinpannu
